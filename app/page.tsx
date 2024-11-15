@@ -6,6 +6,8 @@ export default function Home() {
           Images Converter
         </h1>
       </div>
+
+      {/* DropZone Box to upload */}
     </div>
   );
 }
